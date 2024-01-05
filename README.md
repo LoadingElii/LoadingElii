@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoadingElii
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Next.js.
 
 <!---
 LoadingElii/LoadingElii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
